@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file alias="icon">icon.ico</file>
+        <file alias="check">res/check2.png</file>
+        <file alias="close">res/close2.png</file>
+        <file alias="min">res/min3.png</file>
+    </qresource>
+</RCC>
